@@ -3,4 +3,5 @@ Todo
 
 1)If we change input filename it should Log that error log file in error folder
 2)If Path exist why you are not performing anything
-3)
+3)What if we delete a file in Output folder, He said Code doesn't work if we delete file in output folder
+4)He said to Follow the company standards because client review's your code
